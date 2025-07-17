@@ -58,10 +58,10 @@ This app provides a complete frontend interface for a crypto wallet, enabling us
 
 ## 📱 UI Screenshots
 
-![Wallet Dashboard](1(1).png)
-![Wallet Dashboard](2(2).png)
-![Wallet Dashboard](3.png)
-![Wallet Dashboard](4.png)
-![Wallet Dashboard](5.png)
-![Wallet Dashboard](6.png)
-![Wallet Dashboard](7.png)
+![](1(1).png)
+![](2(2).png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+![](7.png)
